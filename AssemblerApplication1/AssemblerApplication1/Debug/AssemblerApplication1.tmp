@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>21</LINE></Main>
+  <Int_PCMSK1><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>115</LINE></Int_PCMSK1>
+  <Time_overflow><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>160</LINE></Time_overflow>
+  <SETUP><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>32</LINE></SETUP>
+  <D7Segmentos1><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>38</LINE></D7Segmentos1>
+  <Init_T0><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>104</LINE></Init_T0>
+  <LOOP><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>76</LINE></LOOP>
+  <Incrementa><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>131</LINE></Incrementa>
+  <Seguirdecrementa><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>137</LINE></Seguirdecrementa>
+  <Decrementa><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>146</LINE></Decrementa>
+  <Seguirmuestraled><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>152</LINE></Seguirmuestraled>
+  <salir_int_timer><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB3\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>192</LINE></salir_int_timer>
+ </LABELS>
+</ASSEMBLER_INFO>
